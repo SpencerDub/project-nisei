@@ -19,7 +19,7 @@
             <p>The flagship format of NISEI Organized Play, Standard is frequently changing to keep the meta exciting and engaging for players of all levels. Most official Organised Play events will follow the Standard format; if a format is not specified, assume Standard but contact your Tournament Organiser for clarity.</p>
             <div class="col-6">
               <h3>Legal Products</h3>
-              <p>Legal cardpool from 27th December 2019 (when Uprising became legal and Creation & Control and the Lunar Cycle were rotated):</p>
+              <p>Legal cardpool from 18th December 2020 (when Salvaged Memories became legal):</p>
               <ul>
                 <li><a href="https://netrunnerdb.com/en/set/hap" target="_blank">Honor and Profit</a></li>
                 <li><a href="https://netrunnerdb.com/en/set/oc" target="_blank">Order and Chaos</a></li>
@@ -89,68 +89,60 @@
                     <li><a href="https://netrunnerdb.com/en/set/ur" target="_blank">Uprising</a></li>
                   </ul>
                 </li>
+                <li><a href="https://netrunnerdb.com/en/set/sm" target="_blank">Salvaged Memories</a></li>
               </ul>
             </div>
 
             <div class="col-6">
-              <h3>MWL 3.4b</h3>
-                <p class="font-italic">Effective from Tuesday 31st December 2019.
-                </br>Changes from <a href="http://nisei.net/article/MWL34">MWL 3.4</a> detailed <a href="http://nisei.net/article/MWL34b">here</a>.</p>
-                <h4>Corp - removed</h4>
+              <h3>Standard Ban List 20.09</h3>
+                <p class="font-italic">Effective from Friday 25th September 2020.
+                </br>Changes from <a href="/article/BAN2006">20.06</a> detailed <a href="/article/BAN2009">here</a>.</p>
+                <h4>Corp</h4>
                 <ul>
+                  <li>All cards with the "<b>current</b>" subtype</li>
                   <li>24/7 News Cycle</li>
+                  <li>Azmari Edtech: Shaping the Future</li>
+                  <li>Breached Dome</li>
                   <li>Bryan Stinson</li>
+                  <li>Cayambe Grid</li>
                   <li>Clone Suffrage Movement</li>
                   <li>Friends in High Places</li>
+                  <li>Gagarin Deep Space: Expanding the Horizon</li>
+                  <li>Gold Farmer</li>
                   <li>Hired Help</li>
                   <li>Jinteki: Potential Unleashed</li>
+                  <li>Kakugo</li>
                   <li>Mti Mwekundu: Life Improved</li>
                   <li>Mumbad City Hall</li>
                   <li>Museum of History</li>
                   <li>Sensie Actors Union</li>
+                  <li>Shipment from Tennin</li>
+                  <li>SSL Endorsement</li>
+                  <li>Whampoa Reclamation</li>
                   <li>Zealous Judge</li>
                 </ul>
-                <h4>Corp - restricted</h4>
+                <h4>Runner</h4>
                 <ul>
-                  <li>Bio-Ethics Association</li>
-                  <li>Global Food Initiative</li>
-                  <li>Mumba Temple</li>
-                  <li>Obokata Protocol</li>
-                  <li>Whampoa Reclamation</li>
-                </ul>
-                <h4>Runner - removed</h4>
-                <ul>
+                  <li>All cards with the "<b>current</b>" subtype</li>
                   <li>Aaron Marrón</li>
                   <li>Bloo Moose</li>
+                  <li>Clan Vengeance</li>
                   <li>Crowdfunding</li>
-                  <li>Employee Strike</li>
-                  <li>Faust</li>
-                  <li>GPI Net Tap</li>
-                  <li>Hyperdriver</li>
-                  <li>Laamb</li>
-                  <li>Liza Talking Thunder: Prominent Legislator</li>                  
-                  <li>Mars for Martians</li>
-                  <li>Salvaged Vanadis Armory</li>
-                  <li>Şifr</li>
-                  <li>Tapwrm</li>
-                  <li>Temüjin Contract</li>
-                  <li>Watch the World Burn</li>
-                  <li>Zer0</li>
-                </ul>
-                <h4>Runner - restricted</h4>
-                <ul>
-                  <li>Aesop's Pawnshop</li>
-                  <li>Corporate "Grant"</li>
+                  <li>DDoS</li>
                   <li>Dorm Computer</li>
-                  <li>Engolo</li>
+                  <li>Encore</li>
                   <li>Film Critic</li>
                   <li>Gang Sign</li>
-                  <li>Inversificator</li>
-                  <li>Labor Rights</li>
+                  <li>GPI Net Tap</li>
+                  <li>Laamb</li>
+                  <li>Liza Talking Thunder: Prominent Legislator</li>
                   <li>Mad Dash</li>
-                  <li>Paperclip</li>
-                  <li>Rumor Mill</li>
-                  <li>Tech Trader</li>
+                  <li>Mars for Martians</li>
+                  <li>Pad Tap</li>
+                  <li>Salvaged Vanadis Armory</li>
+                  <li>Şifr</li>
+                  <li>Temüjin Contract</li>
+                  <li>Watch the World Burn</li>
                 </ul>
             </div>
           </div>
@@ -294,10 +286,10 @@
           </div>
           <div class="row">
             <h2>Eternal</h2>
-            <p>Eternal is not affected by rotation and has a much less stringent Most Wanted List. The largest and most complex format, it encompasses nearly the entirety of the printed card pool and only grows larger with time.</p>
+            <p>Eternal is not affected by rotation and has a much less stringent Most Wanted List (aka banned & restricted list). The largest and most complex format, it encompasses nearly the entirety of the printed card pool and only grows larger with time.</p>
             <div class="col-6">
               <h3>Legal Products</h3>
-              <p>Legal cardpool from 20th September 2019 (prior to this date, Uprising Booster Pack not officially legal):</p>
+              <p>Legal cardpool from 27th December 2019 (when Uprising became legal):</p>
               <ul>
                 <li><a href="https://netrunnerdb.com/en/set/core" target="_blank">Original Core Set</a></li>
                 <li><a href="https://netrunnerdb.com/en/cycle/genesis" target="_blank">Genesis Cycle</a></li>
@@ -401,7 +393,7 @@
                 <li class="clear-list">
                   <ul>
                     <li><a href="https://netrunnerdb.com/en/set/df" target="_blank">Downfall</a></li>
-                    <li><a href="https://netrunnerdb.com/en/set/urbp" target="_blank">Uprising Booster Pack</a></li>
+                    <li><a href="https://netrunnerdb.com/en/set/ur" target="_blank">Uprising</a></li>
                   </ul>
                 </li>
               </ul>

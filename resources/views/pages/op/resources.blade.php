@@ -17,7 +17,6 @@
                         <li><a href="/files/Comprehensive_Rules.pdf">NISEI Comprehensive Rules</a></li>
                         <li><a href="/files/System_Core_2019.pdf">System Core 2019 Card List</a></li>
                         <li><a href="/files/Organized_Play_Policies.pdf">Organized Play Policies</a></li>
-                        <li><a href="/files/NISEI_Formats.pdf">Organized Play Formats</a></li>
                         <li><a href="/files/Easy_Rotation_Guide_-_Q4_2018.pdf">Easy Rotation Guide</a></li>
                         <li><a href="/files/Decklists.pdf">Blank Decklist Template</a></li>
                         <li><a href="/files/Nametag_Stickers_-_14_Avery_7163.pdf">Nametag Stickers - 14 Avery 7163</a></li>                        
@@ -28,6 +27,7 @@
                         <li><a href="/op/kit-policies">Event Kit Policies & FAQ</a></li>
                         <li><a href="/files/Handwritten_Proxy_Template.pdf">Handwritten Proxy Template</a></li>
                         <li><a href="/files/Handwritten_Proxy_Template_%28Textless%29.pdf">Handwritten Proxy Template (Textless)</a></li>
+                        <li><a href="/files/Match_Slips.pdf">Match Slips for Tournaments</a></li>
                         <li><a href="/files/Double_Elimination_Bracket_-_4_Players.pdf">Double Elimination Bracket - 4 Players</a></li>
                         <li><a href="/files/Double_Elimination_Bracket_-_8_Players.pdf">Double Elimination Bracket - 8 Players</a></li>
                         <li><a href="/files/Double_Elimination_Bracket_-_16_Players.pdf">Double Elimination Bracket - 16 Players</a></li>
